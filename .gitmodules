@@ -1,0 +1,6 @@
+[submodule "comp/rearchive"]
+	path = comp/rearchive
+	url = https://github.com/kubicas/6af1d3f1660a4e8fb560c0228a5852e7/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/97be1c180dbc4c82ba682d08f31387e2/
